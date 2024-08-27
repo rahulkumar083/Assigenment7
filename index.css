@@ -1,0 +1,131 @@
+.Main{
+    background-color:rgb(184, 169, 169);
+}
+.container{
+    margin-left: 150px;
+}
+
+.list{
+    color: rgb(156, 132, 177);
+}
+
+
+
+.icon{
+    margin-left: 400px;
+    display: flex;
+    height: 80px;
+    filter: drop-shadow(5px 5px 5px  black);
+}
+
+.grid-container{
+    background: white;
+    height: 1000px;
+    width: 700px;
+    margin-left: -20px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 30px;
+    padding: 5px;
+    margin-left: 45px;
+    height: 500px;
+    width: 700px;
+    margin-top: -15px;
+
+}
+.Item1{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: aqua;
+    text-align: center;
+}
+.Item2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: aqua;
+    text-align: center;
+}
+.Item3{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: aqua;
+    text-align: center;
+}
+.Item4{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: aqua;
+    text-align: center;
+}
+.Item5{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background: aqua;
+    text-align: center;
+}
+.Item1:hover{
+    box-shadow: 10px 10px 10px black;
+    height: 200px;
+    width: 200px;
+    border: 5px solid rgb(110, 120, 120);
+
+}
+.Item2:hover{
+    box-shadow: 10px 10px 10px black;
+    height: 200px;
+    width: 200px;
+    border: 5px solid rgb(110, 120, 120);
+
+}
+.Item3:hover{
+    box-shadow: 10px 10px 10px black;
+    height: 200px;
+    width: 200px;
+    border: 5px solid rgb(110, 120, 120);
+
+}
+.Item4:hover{
+    box-shadow: 10px 10px 10px black;
+    height: 200px;
+    width: 200px;
+    border: 5px solid rgb(110, 120, 120);
+
+}
+.Item5:hover{
+    box-shadow: 10px 10px 10px black;
+    height: 200px;
+    width: 200px;
+    border: 5px solid rgb(110, 120, 120);
+
+}
+   
+.Item1 h2{
+    color: green;
+
+}
+.Item2 h2{
+    color: green;
+
+}
+.Item3 h2{
+    color: green;
+
+}
+.Item4 h2{
+    color: green;
+
+}
+.Item5 h2{
+    color: green;
+
+}
